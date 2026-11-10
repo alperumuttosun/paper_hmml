@@ -1,0 +1,51 @@
+﻿calendar,last_digit,n,share,whipple_0_5,n_years
+Gregorian exact year (all),0,3452,0.1132,106.9,30502
+Gregorian exact year (all),1,2913,0.0955,106.9,30502
+Gregorian exact year (all),2,2838,0.093,106.9,30502
+Gregorian exact year (all),3,3023,0.0991,106.9,30502
+Gregorian exact year (all),4,3090,0.1013,106.9,30502
+Gregorian exact year (all),5,3070,0.1006,106.9,30502
+Gregorian exact year (all),6,3142,0.103,106.9,30502
+Gregorian exact year (all),7,3017,0.0989,106.9,30502
+Gregorian exact year (all),8,2984,0.0978,106.9,30502
+Gregorian exact year (all),9,2973,0.0975,106.9,30502
+"Gregorian exact year, no native date",0,2080,0.1244,112,16715
+"Gregorian exact year, no native date",1,1573,0.0941,112,16715
+"Gregorian exact year, no native date",2,1496,0.0895,112,16715
+"Gregorian exact year, no native date",3,1603,0.0959,112,16715
+"Gregorian exact year, no native date",4,1677,0.1003,112,16715
+"Gregorian exact year, no native date",5,1667,0.0997,112,16715
+"Gregorian exact year, no native date",6,1755,0.105,112,16715
+"Gregorian exact year, no native date",7,1617,0.0967,112,16715
+"Gregorian exact year, no native date",8,1625,0.0972,112,16715
+"Gregorian exact year, no native date",9,1622,0.097,112,16715
+AH year as written,0,880,0.0984,101.8,8947
+AH year as written,1,871,0.0974,101.8,8947
+AH year as written,2,876,0.0979,101.8,8947
+AH year as written,3,861,0.0962,101.8,8947
+AH year as written,4,826,0.0923,101.8,8947
+AH year as written,5,940,0.1051,101.8,8947
+AH year as written,6,913,0.102,101.8,8947
+AH year as written,7,927,0.1036,101.8,8947
+AH year as written,8,974,0.1089,101.8,8947
+AH year as written,9,879,0.0982,101.8,8947
+Anno mundi year as written,0,38,0.0896,88.4,424
+Anno mundi year as written,1,43,0.1014,88.4,424
+Anno mundi year as written,2,32,0.0755,88.4,424
+Anno mundi year as written,3,47,0.1108,88.4,424
+Anno mundi year as written,4,45,0.1061,88.4,424
+Anno mundi year as written,5,37,0.0873,88.4,424
+Anno mundi year as written,6,51,0.1203,88.4,424
+Anno mundi year as written,7,37,0.0873,88.4,424
+Anno mundi year as written,8,36,0.0849,88.4,424
+Anno mundi year as written,9,58,0.1368,88.4,424
+other native year as written,0,532,0.1037,104.2,5130
+other native year as written,1,536,0.1045,104.2,5130
+other native year as written,2,467,0.091,104.2,5130
+other native year as written,3,561,0.1094,104.2,5130
+other native year as written,4,496,0.0967,104.2,5130
+other native year as written,5,537,0.1047,104.2,5130
+other native year as written,6,504,0.0982,104.2,5130
+other native year as written,7,524,0.1021,104.2,5130
+other native year as written,8,495,0.0965,104.2,5130
+other native year as written,9,478,0.0932,104.2,5130

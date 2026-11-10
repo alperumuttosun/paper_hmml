@@ -1,0 +1,126 @@
+﻿rank,repository,country,script,n,effect,se
+1,Commissariat of the Holy Land,Malta,Not recorded,382,-3.11,0.217
+2,Bibliothèque des Manuscrits al-Wangari,Mali,Arabic,1288,-3.021,0.142
+3,Aboubacar Ben Said Library,Mali,Arabic,625,-2.628,0.165
+4,Bibliothèque de Manuscrits al-Imam Essayouti,Mali,Arabic,2520,-2.624,0.095
+5,Bibliothèque al-Cady al-Aqib,Mali,Arabic,1123,-2.272,0.12
+6,Oberösterreichische Landesbibliothek,Austria,Roman,401,-2.259,0.418
+7,Benediktinerstift Lambach. Bibliothek,Austria,Roman,406,-2.239,0.386
+8,Stiftsbibliothek Melk,Austria,Roman,1110,-2.134,0.233
+9,Stift Göttweig. Bibliothek,Austria,Roman,550,-2.091,0.342
+10,Catedral de Tortosa. Arxiu Capitular,Spain,Not recorded,334,-1.918,0.212
+11,Dominikanerkloster,Austria,Roman,247,-1.873,0.397
+12,Stiftsbibliothek Schlägl,Austria,Roman,256,-1.84,0.398
+13,Mamma Haidara Library,Mali,Arabic,2094,-1.803,0.07
+14,"Carmelite Priory (Mdina, Malta)",Malta,Not recorded,746,-1.559,0.086
+15,Abtei Heiligenkreuz. Bibliothek,Austria,Roman,392,-1.508,0.335
+16,Stift St. Florian,Austria,Roman,545,-1.497,0.253
+17,Benediktinerstift Seitenstetten. Stiftsbibliothek,Austria,Roman,295,-1.306,0.295
+18,Collegiate Church of St. Helen,Malta,Not recorded,220,-1.293,0.145
+19,Stiftsbibliothek Kremsmünster,Austria,Roman,515,-1.217,0.237
+20,Schottenstift. Bibliothek,Austria,Roman,458,-1.041,0.211
+21,Stift Vorau. Bibliothek,Austria,Roman,365,-1.003,0.266
+22,Stift Admont. Bibliothek,Austria,Roman,786,-0.97,0.202
+23,Erzbischöfliche Diözesan- und Dombibliothek,Germany,Roman,700,-0.802,0.151
+24,Universitätsbibliothek Johann Christian Senckenberg,Germany,Not recorded,809,-0.762,0.087
+25,Universitäts- und Landesbibliothek Bonn,Germany,Roman,905,-0.72,0.115
+26,"Haus-, Hof- und Staatsarchiv",Austria,Roman,315,-0.665,0.194
+27,Durham Cathedral. Library,Great Britain,Roman,383,-0.633,0.316
+28,Stiftsbibliothek Zwettl,Austria,Roman,453,-0.569,0.213
+29,Erzabtei St. Peter. Bibliothek,Austria,Roman,943,-0.565,0.122
+30,Sherif Harar City Museum,Ethiopia,Arabic,555,-0.465,0.097
+31,Gunda Gundē Monastery,Ethiopia,Ethiopic,235,-0.429,0.405
+32,Stift Klosterneuburg. Bibliothek,Austria,Roman,1269,-0.407,0.109
+33,Catedral de Toledo. Biblioteca,Spain,Roman,910,-0.388,0.138
+34,Tiroler Landesarchiv,Austria,Not recorded,1078,-0.386,0.062
+35,Dayr Za‘farān (Monastery),Turkey,Syriac,276,-0.371,0.125
+36,Konat Collection,India,Syriac,256,-0.337,0.131
+37,Nat︠s︡ionalʹnyĭ muzeĭ u Lʹvovi imeni Andrei︠a︡ Sheptyt︠s︡ʹkoho,Ukraine,Cyrillic,900,-0.321,0.102
+38,Addis Ababa University. Institute of Ethiopian Studies,Ethiopia,Ethiopic,584,-0.315,0.117
+39,Stift Lilienfeld. Bibliothek,Austria,Roman,233,-0.304,0.259
+40,Church of the Forty Martyrs,Turkey,Syriac,1153,-0.274,0.062
+41,Melkite Greek Catholic Church. Archdiocese of Aleppo,Syria,Arabic,424,-0.252,0.108
+42,Universitäts- und Landesbibliothek Tirol,Austria,Roman,726,-0.188,0.129
+43,Private Library (Wallo Province),Ethiopia,Ethiopic,253,-0.161,0.277
+44,Chaldean Catholic Church. Patriarchate of Baghdad,Iraq,Syriac,836,-0.125,0.071
+45,Private Library (Šawā Province),Ethiopia,Ethiopic,302,-0.081,0.245
+46,Dominican Friars of Mosul,Iraq,Syriac,1050,-0.063,0.064
+47,Ordre Basilien Alepin,Lebanon,Arabic,1514,-0.025,0.054
+48,Thüringer Universitäts- und Landesbibliothek Jena,Germany,Roman,512,-0.02,0.125
+49,Mār Behnām Monastery,Iraq,Syriac,554,-0.019,0.088
+50,Armenian Patriarchate of Istanbul. Patriarch’s Collection,Turkey,Armenian,222,-0.012,0.135
+51,Syriac Catholic Church. Archdiocese of Aleppo,Syria,Arabic,704,-0.012,0.079
+52,Catholic Church. Diocese of Münster in Westfalen. Bistumsarchiv,Germany,Roman,244,0.012,0.178
+53,Meryem Ana Kilisesi,Turkey,Syriac,359,0.029,0.108
+54,Nordrhein-Westfälisches Staatsarchiv Münster,Germany,Roman,497,0.039,0.119
+55,Chaldean Catholic Church. Archdiocese of Kirkuk,Iraq,Syriac,234,0.05,0.132
+56,Société des Missionnaires de Saint Paul (Melkite Greek Catholic),Lebanon,Arabic,403,0.052,0.103
+57,Universitätsbibliothek Salzburg,Austria,Roman,504,0.077,0.124
+58,Staats- und Universitätsbibliothek Bremen,Germany,Roman,255,0.099,0.177
+59,Universitätsbibliothek Graz,Austria,Roman,1223,0.114,0.093
+60,Fondacije Meyli. Rukopisna zbirka,Bosnia and Herzegovina,Arabic,268,0.116,0.125
+61,al-Jāmiʻ al-ʻUmarī al-Kabīr (Gaza),Gaza,Arabic,221,0.153,0.138
+62,Mar Hirmiz Keldani Kilisesi,Turkey,Syriac,635,0.154,0.081
+63,Erzbischöfliche Akademische Bibliothek Paderborn,Germany,Roman,397,0.159,0.124
+64,Steiermärkisches Landesarchiv,Austria,Roman,569,0.163,0.105
+65,Near East School of Theology,Lebanon,Arabic,376,0.188,0.106
+66,Benediktinerstift St. Paul. Bibliothek,Austria,Roman,1046,0.19,0.083
+67,Catedral de Barcelona. Arxiu Capitular,Spain,Roman,202,0.235,0.198
+68,Our Lady of Bzummār Monastery,Lebanon,Armenian,1239,0.236,0.058
+69,Fondation Georges et Mathilde Salem,Syria,Arabic,519,0.264,0.09
+70,Isʻāf Nashāshibī Center for Culture and Literature,Jerusalem,Arabic,778,0.29,0.073
+71,Lʹvivsʹka nat︠s︡ionalʹna naukova biblioteka Ukraïny im. V. Stefanyka,Ukraine,Cyrillic,850,0.294,0.088
+72,Montserrat (Abbey). Biblioteca,Spain,Roman,440,0.297,0.115
+73,Herzogin Anna Amalia Bibliothek,Germany,Roman,627,0.3,0.106
+74,"Armenian Patriarchate of Istanbul, Azgayin Matenadaran",Turkey,Armenian,261,0.317,0.123
+75,Université Saint-Joseph. Bibliothèque orientale,Lebanon,Arabic,3201,0.326,0.036
+76,Catholic Church. Diocese of Trier. Bistumsarchiv,Germany,Roman,261,0.338,0.185
+77,Armenian Church. Katʻoghikosutʻiwn Hayotsʻ Metsi Tann Kilikioy,Lebanon,Armenian,239,0.341,0.131
+78,Biblioteca statale del Monumento nazionale Monastero di S. Scolastica,Italy,Roman,308,0.349,0.179
+79,Raja of Mahmudabad Palace Library,India,Arabic,541,0.358,0.087
+80,Universitätsbibliothek Rostock,Germany,Roman,572,0.365,0.115
+81,Stift Herzogenburg. Bibliothek,Austria,Roman,226,0.395,0.169
+82,Kungliga Biblioteket,Sweden,Roman,323,0.4,0.149
+83,Historisches Archiv der Stadt Köln,Germany,Roman,1387,0.409,0.072
+84,Syriac Orthodox Church. Archdiocese of Mosul,Iraq,Syriac,426,0.42,0.098
+85,St. Nikolaus-Hospital. Bibliothek,Germany,Roman,313,0.421,0.162
+86,Lebanese Maronite Order,Lebanon,Syriac,1643,0.441,0.05
+87,Ordre Basilien Choueirite,Lebanon,Arabic,986,0.444,0.065
+88,Āl Budayrī,Jerusalem,Arabic,1309,0.446,0.056
+89,Kärntner Landesarchiv,Austria,Roman,229,0.483,0.158
+90,Universitätsbibliothek Freiburg im Breisgau,Germany,Roman,653,0.492,0.106
+91,Greek Orthodox Patriarchate of Antioch. Library,Syria,Arabic,335,0.499,0.11
+92,Kitābk̲h̲ānah-yi Mumtāz al-ʻUlamā,India,Arabic,428,0.519,0.097
+93,Lebanese Maronite Missionary Order,Lebanon,Arabic,448,0.535,0.096
+94,Österreichische Nationalbibliothek,Austria,Arabic,7144,0.536,0.028
+95,StiftsMuseum Xanten,Germany,Roman,295,0.544,0.133
+96,Stiftsbibliothek Einsiedeln,Switzerland,Roman,826,0.548,0.103
+97,Nacionalna i univerzitetska biblioteka Bosne i Hercegovine,Bosnia and Herzegovina,Arabic,834,0.576,0.07
+98,Qalb al-Aqdas Chaldean Church,Iraq,Syriac,232,0.584,0.134
+99,Syriac Orthodox Church. Archdiocese of Aleppo,Syria,Syriac,510,0.606,0.093
+100,Universität Tübingen. Universitätsbibliothek,Germany,Arabic,592,0.632,0.085
+101,Syriac Orthodox Church. Archdiocese of Homs,Syria,Syriac,394,0.658,0.106
+102,Saint Mark's Monastery,Jerusalem,Syriac,474,0.673,0.096
+103,Séminaire Sainte-Anne de Jérusalem,Jerusalem,Arabic,237,0.713,0.131
+104,"Carmelite Priory (Valletta, Malta)",Malta,Roman,234,0.741,0.137
+105,Iglesia Catedral de Tarazona. Biblioteca,Spain,Roman,226,0.763,0.162
+106,"Notre Dame University, Louaize",Lebanon,Syriac,375,0.809,0.106
+107,Khalidi Library (Jerusalem),Jerusalem,Arabic,1721,0.813,0.049
+108,Seo de Zaragoza. Biblioteca capitular,Spain,Roman,228,0.821,0.147
+109,Museu del Castell de Peralada. Biblioteca,Spain,Not recorded,248,0.83,0.143
+110,Archivum Cathedrale Gaudisiense,Malta,Roman,860,0.885,0.07
+111,Dayr Sayyidat al-Balamand,Lebanon,Arabic,233,1.013,0.133
+112,Arca Artium. Rare Book and Manuscript Collection,United States,Not recorded,217,1.019,0.159
+113,"Private Library (Addis Ababa, Ethiopia)",Ethiopia,Ethiopic,577,1.049,0.11
+114,Universität für Bildungswissenschaften Klagenfurt. Universitätsbibliothek,Austria,Roman,217,1.068,0.155
+115,Engelberg (Abbey). Stiftsbibliothek,Switzerland,Roman,309,1.082,0.15
+116,Benediktinerabtei Sankt Georgenberg-Fiecht,Austria,Roman,235,1.159,0.135
+117,Dayrā d-Mār Gabriʼél,Turkey,Syriac,343,1.217,0.127
+118,Stift Altenburg. Bibliothek,Austria,Roman,229,1.237,0.139
+119,Hill Museum & Manuscript Library. Rare Book and Manuscript Collection,United States,Not recorded,335,1.278,0.132
+120,Cathedral Archives,Malta,Roman,3238,1.342,0.037
+121,Oberösterreichisches Landesarchiv,Austria,Roman,503,1.39,0.09
+122,Biblioteca Nacional (Portugal),Portugal,Roman,1488,1.401,0.056
+123,Minoritenkonvent. Klosterbibliothek und Archiv,Austria,Roman,219,1.481,0.142
+124,Hercegovačka franjevačka provincija,Bosnia and Herzegovina,Arabic,1172,1.675,0.067
+125,Saint John's University. Rare Book and Manuscript Collection,United States,Roman,268,2.288,0.153

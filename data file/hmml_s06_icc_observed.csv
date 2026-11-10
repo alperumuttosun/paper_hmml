@@ -1,0 +1,5 @@
+﻿profile,eta,icc_observed,icc_latent,mor
+"typical profile: 15th century, Roman, paper",-1.798,0.145,0.26,2.79
+"typical profile: 12th century, Roman, paper",-3.383,0.069,0.26,2.79
+"typical profile: 20th century, Roman, paper",-0.802,0.182,0.26,2.79
+average linear predictor of all modelled parts,-1.266,0.168,0.26,2.79

@@ -1,0 +1,693 @@
+﻿group_type,group,n_group,precision,N,share
+century,(outside 1-21 / missing),5,1_exact_year,1,0.2
+century,(outside 1-21 / missing),5,7_span_multi_century,4,0.8
+century,C01,10,1_exact_year,1,0.1
+century,C01,10,2_span_1_10,2,0.2
+century,C01,10,3_span_11_25,2,0.2
+century,C01,10,4_span_26_50,1,0.1
+century,C01,10,6_span_one_century,3,0.3
+century,C01,10,7_span_multi_century,1,0.1
+century,C02,14,1_exact_year,2,0.1429
+century,C02,14,2_span_1_10,2,0.1429
+century,C02,14,3_span_11_25,1,0.0714
+century,C02,14,4_span_26_50,1,0.0714
+century,C02,14,6_span_one_century,5,0.3571
+century,C02,14,7_span_multi_century,3,0.2143
+century,C03,15,1_exact_year,1,0.0667
+century,C03,15,2_span_1_10,7,0.4667
+century,C03,15,4_span_26_50,2,0.1333
+century,C03,15,6_span_one_century,3,0.2
+century,C03,15,7_span_multi_century,2,0.1333
+century,C04,2,7_span_multi_century,2,1
+century,C05,6,1_exact_year,1,0.1667
+century,C05,6,6_span_one_century,3,0.5
+century,C05,6,7_span_multi_century,2,0.3333
+century,C06,19,1_exact_year,2,0.1053
+century,C06,19,4_span_26_50,1,0.0526
+century,C06,19,6_span_one_century,10,0.5263
+century,C06,19,7_span_multi_century,6,0.3158
+century,C07,20,2_span_1_10,1,0.05
+century,C07,20,3_span_11_25,1,0.05
+century,C07,20,4_span_26_50,6,0.3
+century,C07,20,6_span_one_century,5,0.25
+century,C07,20,7_span_multi_century,7,0.35
+century,C08,88,1_exact_year,3,0.0341
+century,C08,88,2_span_1_10,1,0.0114
+century,C08,88,3_span_11_25,8,0.0909
+century,C08,88,4_span_26_50,11,0.125
+century,C08,88,6_span_one_century,36,0.4091
+century,C08,88,7_span_multi_century,29,0.3295
+century,C09,310,1_exact_year,2,0.0065
+century,C09,310,3_span_11_25,25,0.0806
+century,C09,310,4_span_26_50,42,0.1355
+century,C09,310,5_span_51_98,3,0.0097
+century,C09,310,6_span_one_century,195,0.629
+century,C09,310,7_span_multi_century,43,0.1387
+century,C10,452,1_exact_year,11,0.0243
+century,C10,452,2_span_1_10,4,0.0088
+century,C10,452,3_span_11_25,7,0.0155
+century,C10,452,4_span_26_50,10,0.0221
+century,C10,452,5_span_51_98,8,0.0177
+century,C10,452,6_span_one_century,340,0.7522
+century,C10,452,7_span_multi_century,72,0.1593
+century,C11,670,1_exact_year,17,0.0254
+century,C11,670,2_span_1_10,6,0.009
+century,C11,670,3_span_11_25,38,0.0567
+century,C11,670,4_span_26_50,29,0.0433
+century,C11,670,5_span_51_98,8,0.0119
+century,C11,670,6_span_one_century,445,0.6642
+century,C11,670,7_span_multi_century,126,0.1881
+century,C11,670,8_century_field_only,1,0.0015
+century,C12,2417,1_exact_year,77,0.0319
+century,C12,2417,2_span_1_10,13,0.0054
+century,C12,2417,3_span_11_25,178,0.0736
+century,C12,2417,4_span_26_50,196,0.0811
+century,C12,2417,5_span_51_98,10,0.0041
+century,C12,2417,6_span_one_century,1641,0.6789
+century,C12,2417,7_span_multi_century,295,0.1221
+century,C12,2417,8_century_field_only,7,0.0029
+century,C13,3664,1_exact_year,236,0.0644
+century,C13,3664,2_span_1_10,33,0.009
+century,C13,3664,3_span_11_25,297,0.0811
+century,C13,3664,4_span_26_50,268,0.0731
+century,C13,3664,5_span_51_98,22,0.006
+century,C13,3664,6_span_one_century,2207,0.6023
+century,C13,3664,7_span_multi_century,589,0.1608
+century,C13,3664,8_century_field_only,12,0.0033
+century,C14,7255,1_exact_year,729,0.1005
+century,C14,7255,2_span_1_10,93,0.0128
+century,C14,7255,3_span_11_25,324,0.0447
+century,C14,7255,4_span_26_50,418,0.0576
+century,C14,7255,5_span_51_98,50,0.0069
+century,C14,7255,6_span_one_century,4834,0.6663
+century,C14,7255,7_span_multi_century,798,0.11
+century,C14,7255,8_century_field_only,9,0.0012
+century,C15,15707,1_exact_year,2610,0.1662
+century,C15,15707,2_span_1_10,989,0.063
+century,C15,15707,3_span_11_25,830,0.0528
+century,C15,15707,4_span_26_50,934,0.0595
+century,C15,15707,5_span_51_98,160,0.0102
+century,C15,15707,6_span_one_century,9518,0.606
+century,C15,15707,7_span_multi_century,616,0.0392
+century,C15,15707,8_century_field_only,50,0.0032
+century,C16,10777,1_exact_year,3868,0.3589
+century,C16,10777,2_span_1_10,782,0.0726
+century,C16,10777,3_span_11_25,527,0.0489
+century,C16,10777,4_span_26_50,527,0.0489
+century,C16,10777,5_span_51_98,405,0.0376
+century,C16,10777,6_span_one_century,3842,0.3565
+century,C16,10777,7_span_multi_century,583,0.0541
+century,C16,10777,8_century_field_only,243,0.0225
+century,C17,10017,1_exact_year,3980,0.3973
+century,C17,10017,2_span_1_10,274,0.0274
+century,C17,10017,3_span_11_25,173,0.0173
+century,C17,10017,4_span_26_50,220,0.022
+century,C17,10017,5_span_51_98,297,0.0296
+century,C17,10017,6_span_one_century,4066,0.4059
+century,C17,10017,7_span_multi_century,860,0.0859
+century,C17,10017,8_century_field_only,147,0.0147
+century,C18,17663,1_exact_year,6293,0.3563
+century,C18,17663,2_span_1_10,415,0.0235
+century,C18,17663,3_span_11_25,335,0.019
+century,C18,17663,4_span_26_50,530,0.03
+century,C18,17663,5_span_51_98,908,0.0514
+century,C18,17663,6_span_one_century,7203,0.4078
+century,C18,17663,7_span_multi_century,1655,0.0937
+century,C18,17663,8_century_field_only,324,0.0183
+century,C19,25313,1_exact_year,8520,0.3366
+century,C19,25313,2_span_1_10,423,0.0167
+century,C19,25313,3_span_11_25,316,0.0125
+century,C19,25313,4_span_26_50,982,0.0388
+century,C19,25313,5_span_51_98,1166,0.0461
+century,C19,25313,6_span_one_century,8444,0.3336
+century,C19,25313,7_span_multi_century,4426,0.1749
+century,C19,25313,8_century_field_only,1036,0.0409
+century,C20,13252,1_exact_year,4752,0.3586
+century,C20,13252,2_span_1_10,700,0.0528
+century,C20,13252,3_span_11_25,423,0.0319
+century,C20,13252,4_span_26_50,1546,0.1167
+century,C20,13252,5_span_51_98,1911,0.1442
+century,C20,13252,6_span_one_century,3560,0.2686
+century,C20,13252,7_span_multi_century,108,0.0081
+century,C20,13252,8_century_field_only,252,0.019
+century,C21,139,1_exact_year,91,0.6547
+century,C21,139,2_span_1_10,22,0.1583
+century,C21,139,3_span_11_25,24,0.1727
+century,C21,139,4_span_26_50,2,0.0144
+country,Austria,25681,1_exact_year,4731,0.1842
+country,Austria,25681,2_span_1_10,812,0.0316
+country,Austria,25681,3_span_11_25,512,0.0199
+country,Austria,25681,4_span_26_50,595,0.0232
+country,Austria,25681,5_span_51_98,616,0.024
+country,Austria,25681,6_span_one_century,16733,0.6516
+country,Austria,25681,7_span_multi_century,1660,0.0646
+country,Austria,25681,8_century_field_only,22,9e-04
+country,Bosnia and Herzegovina,2581,1_exact_year,1534,0.5943
+country,Bosnia and Herzegovina,2581,2_span_1_10,31,0.012
+country,Bosnia and Herzegovina,2581,3_span_11_25,12,0.0046
+country,Bosnia and Herzegovina,2581,4_span_26_50,29,0.0112
+country,Bosnia and Herzegovina,2581,5_span_51_98,54,0.0209
+country,Bosnia and Herzegovina,2581,6_span_one_century,891,0.3452
+country,Bosnia and Herzegovina,2581,7_span_multi_century,29,0.0112
+country,Bosnia and Herzegovina,2581,8_century_field_only,1,4e-04
+country,Ethiopia,8290,1_exact_year,752,0.0907
+country,Ethiopia,8290,2_span_1_10,770,0.0929
+country,Ethiopia,8290,3_span_11_25,561,0.0677
+country,Ethiopia,8290,4_span_26_50,681,0.0821
+country,Ethiopia,8290,5_span_51_98,1047,0.1263
+country,Ethiopia,8290,6_span_one_century,4350,0.5247
+country,Ethiopia,8290,7_span_multi_century,129,0.0156
+country,Germany,10743,1_exact_year,2153,0.2004
+country,Germany,10743,2_span_1_10,1015,0.0945
+country,Germany,10743,3_span_11_25,1251,0.1164
+country,Germany,10743,4_span_26_50,1449,0.1349
+country,Germany,10743,5_span_51_98,777,0.0723
+country,Germany,10743,6_span_one_century,3133,0.2916
+country,Germany,10743,7_span_multi_century,952,0.0886
+country,Germany,10743,8_century_field_only,13,0.0012
+country,India,2922,1_exact_year,1002,0.3429
+country,India,2922,2_span_1_10,46,0.0157
+country,India,2922,3_span_11_25,29,0.0099
+country,India,2922,4_span_26_50,78,0.0267
+country,India,2922,5_span_51_98,146,0.05
+country,India,2922,6_span_one_century,1045,0.3576
+country,India,2922,7_span_multi_century,561,0.192
+country,India,2922,8_century_field_only,15,0.0051
+country,Iraq,5860,1_exact_year,2716,0.4635
+country,Iraq,5860,2_span_1_10,121,0.0206
+country,Iraq,5860,3_span_11_25,103,0.0176
+country,Iraq,5860,4_span_26_50,208,0.0355
+country,Iraq,5860,5_span_51_98,280,0.0478
+country,Iraq,5860,6_span_one_century,1471,0.251
+country,Iraq,5860,7_span_multi_century,875,0.1493
+country,Iraq,5860,8_century_field_only,86,0.0147
+country,Italy,635,1_exact_year,132,0.2079
+country,Italy,635,2_span_1_10,8,0.0126
+country,Italy,635,3_span_11_25,9,0.0142
+country,Italy,635,4_span_26_50,28,0.0441
+country,Italy,635,5_span_51_98,15,0.0236
+country,Italy,635,6_span_one_century,419,0.6598
+country,Italy,635,7_span_multi_century,24,0.0378
+country,Jerusalem,4714,1_exact_year,2229,0.4728
+country,Jerusalem,4714,2_span_1_10,28,0.0059
+country,Jerusalem,4714,3_span_11_25,14,0.003
+country,Jerusalem,4714,4_span_26_50,64,0.0136
+country,Jerusalem,4714,5_span_51_98,136,0.0289
+country,Jerusalem,4714,6_span_one_century,2177,0.4618
+country,Jerusalem,4714,7_span_multi_century,64,0.0136
+country,Jerusalem,4714,8_century_field_only,2,4e-04
+country,Lebanon,11256,1_exact_year,5179,0.4601
+country,Lebanon,11256,2_span_1_10,120,0.0107
+country,Lebanon,11256,3_span_11_25,113,0.01
+country,Lebanon,11256,4_span_26_50,364,0.0323
+country,Lebanon,11256,5_span_51_98,577,0.0513
+country,Lebanon,11256,6_span_one_century,4076,0.3621
+country,Lebanon,11256,7_span_multi_century,608,0.054
+country,Lebanon,11256,8_century_field_only,219,0.0195
+country,Mali,8107,1_exact_year,529,0.0653
+country,Mali,8107,2_span_1_10,108,0.0133
+country,Mali,8107,3_span_11_25,13,0.0016
+country,Mali,8107,4_span_26_50,487,0.0601
+country,Mali,8107,5_span_51_98,395,0.0487
+country,Mali,8107,6_span_one_century,2746,0.3387
+country,Mali,8107,7_span_multi_century,2834,0.3496
+country,Mali,8107,8_century_field_only,995,0.1227
+country,Malta,6132,1_exact_year,2837,0.4627
+country,Malta,6132,2_span_1_10,43,0.007
+country,Malta,6132,3_span_11_25,28,0.0046
+country,Malta,6132,4_span_26_50,727,0.1186
+country,Malta,6132,5_span_51_98,420,0.0685
+country,Malta,6132,6_span_one_century,1198,0.1954
+country,Malta,6132,7_span_multi_century,877,0.143
+country,Malta,6132,8_century_field_only,2,3e-04
+country,Other,4667,1_exact_year,1562,0.3347
+country,Other,4667,2_span_1_10,124,0.0266
+country,Other,4667,3_span_11_25,342,0.0733
+country,Other,4667,4_span_26_50,313,0.0671
+country,Other,4667,5_span_51_98,95,0.0204
+country,Other,4667,6_span_one_century,1918,0.411
+country,Other,4667,7_span_multi_century,312,0.0669
+country,Other,4667,8_century_field_only,1,2e-04
+country,Portugal,1790,1_exact_year,636,0.3553
+country,Portugal,1790,2_span_1_10,135,0.0754
+country,Portugal,1790,3_span_11_25,244,0.1363
+country,Portugal,1790,4_span_26_50,184,0.1028
+country,Portugal,1790,5_span_51_98,37,0.0207
+country,Portugal,1790,6_span_one_century,446,0.2492
+country,Portugal,1790,7_span_multi_century,108,0.0603
+country,Spain,3788,1_exact_year,661,0.1745
+country,Spain,3788,2_span_1_10,72,0.019
+country,Spain,3788,3_span_11_25,110,0.029
+country,Spain,3788,4_span_26_50,218,0.0576
+country,Spain,3788,5_span_51_98,34,0.009
+country,Spain,3788,6_span_one_century,2334,0.6162
+country,Spain,3788,7_span_multi_century,357,0.0942
+country,Spain,3788,8_century_field_only,2,5e-04
+country,Syria,3360,1_exact_year,1596,0.475
+country,Syria,3360,2_span_1_10,32,0.0095
+country,Syria,3360,3_span_11_25,45,0.0134
+country,Syria,3360,4_span_26_50,118,0.0351
+country,Syria,3360,5_span_51_98,195,0.058
+country,Syria,3360,6_span_one_century,1142,0.3399
+country,Syria,3360,7_span_multi_century,227,0.0676
+country,Syria,3360,8_century_field_only,5,0.0015
+country,Turkey,4144,1_exact_year,1980,0.4778
+country,Turkey,4144,2_span_1_10,169,0.0408
+country,Turkey,4144,3_span_11_25,24,0.0058
+country,Turkey,4144,4_span_26_50,64,0.0154
+country,Turkey,4144,5_span_51_98,44,0.0106
+country,Turkey,4144,6_span_one_century,1077,0.2599
+country,Turkey,4144,7_span_multi_century,442,0.1067
+country,Turkey,4144,8_century_field_only,344,0.083
+country,Ukraine,1917,1_exact_year,317,0.1654
+country,Ukraine,1917,2_span_1_10,54,0.0282
+country,Ukraine,1917,3_span_11_25,42,0.0219
+country,Ukraine,1917,4_span_26_50,47,0.0245
+country,Ukraine,1917,5_span_51_98,24,0.0125
+country,Ukraine,1917,6_span_one_century,941,0.4909
+country,Ukraine,1917,7_span_multi_century,123,0.0642
+country,Ukraine,1917,8_century_field_only,369,0.1925
+country,United States,1228,1_exact_year,651,0.5301
+country,United States,1228,2_span_1_10,79,0.0643
+country,United States,1228,3_span_11_25,57,0.0464
+country,United States,1228,4_span_26_50,72,0.0586
+country,United States,1228,5_span_51_98,56,0.0456
+country,United States,1228,6_span_one_century,263,0.2142
+country,United States,1228,7_span_multi_century,45,0.0366
+country,United States,1228,8_century_field_only,5,0.0041
+lang,(missing),1588,1_exact_year,817,0.5145
+lang,(missing),1588,2_span_1_10,27,0.017
+lang,(missing),1588,3_span_11_25,29,0.0183
+lang,(missing),1588,4_span_26_50,83,0.0523
+lang,(missing),1588,5_span_51_98,69,0.0435
+lang,(missing),1588,6_span_one_century,402,0.2531
+lang,(missing),1588,7_span_multi_century,138,0.0869
+lang,(missing),1588,8_century_field_only,23,0.0145
+lang,Arabic,31320,1_exact_year,10797,0.3447
+lang,Arabic,31320,2_span_1_10,380,0.0121
+lang,Arabic,31320,3_span_11_25,283,0.009
+lang,Arabic,31320,4_span_26_50,1201,0.0383
+lang,Arabic,31320,5_span_51_98,1722,0.055
+lang,Arabic,31320,6_span_one_century,12174,0.3887
+lang,Arabic,31320,7_span_multi_century,3550,0.1133
+lang,Arabic,31320,8_century_field_only,1213,0.0387
+lang,Arabic Garshuni,2669,1_exact_year,1352,0.5066
+lang,Arabic Garshuni,2669,2_span_1_10,45,0.0169
+lang,Arabic Garshuni,2669,3_span_11_25,12,0.0045
+lang,Arabic Garshuni,2669,4_span_26_50,55,0.0206
+lang,Arabic Garshuni,2669,5_span_51_98,55,0.0206
+lang,Arabic Garshuni,2669,6_span_one_century,770,0.2885
+lang,Arabic Garshuni,2669,7_span_multi_century,297,0.1113
+lang,Arabic Garshuni,2669,8_century_field_only,83,0.0311
+lang,Armenian,2492,1_exact_year,1292,0.5185
+lang,Armenian,2492,2_span_1_10,32,0.0128
+lang,Armenian,2492,3_span_11_25,6,0.0024
+lang,Armenian,2492,4_span_26_50,15,0.006
+lang,Armenian,2492,5_span_51_98,10,0.004
+lang,Armenian,2492,6_span_one_century,782,0.3138
+lang,Armenian,2492,7_span_multi_century,347,0.1392
+lang,Armenian,2492,8_century_field_only,8,0.0032
+lang,Church Slavonic,1817,1_exact_year,281,0.1547
+lang,Church Slavonic,1817,2_span_1_10,22,0.0121
+lang,Church Slavonic,1817,3_span_11_25,26,0.0143
+lang,Church Slavonic,1817,4_span_26_50,29,0.016
+lang,Church Slavonic,1817,5_span_51_98,7,0.0039
+lang,Church Slavonic,1817,6_span_one_century,997,0.5487
+lang,Church Slavonic,1817,7_span_multi_century,131,0.0721
+lang,Church Slavonic,1817,8_century_field_only,324,0.1783
+lang,Ge'ez,7289,1_exact_year,430,0.059
+lang,Ge'ez,7289,2_span_1_10,715,0.0981
+lang,Ge'ez,7289,3_span_11_25,531,0.0728
+lang,Ge'ez,7289,4_span_26_50,644,0.0884
+lang,Ge'ez,7289,5_span_51_98,941,0.1291
+lang,Ge'ez,7289,6_span_one_century,3892,0.534
+lang,Ge'ez,7289,7_span_multi_century,136,0.0187
+lang,German,5338,1_exact_year,1565,0.2932
+lang,German,5338,2_span_1_10,503,0.0942
+lang,German,5338,3_span_11_25,379,0.071
+lang,German,5338,4_span_26_50,286,0.0536
+lang,German,5338,5_span_51_98,388,0.0727
+lang,German,5338,6_span_one_century,1900,0.3559
+lang,German,5338,7_span_multi_century,311,0.0583
+lang,German,5338,8_century_field_only,6,0.0011
+lang,Greek,1366,1_exact_year,190,0.1391
+lang,Greek,1366,2_span_1_10,25,0.0183
+lang,Greek,1366,3_span_11_25,19,0.0139
+lang,Greek,1366,4_span_26_50,44,0.0322
+lang,Greek,1366,5_span_51_98,186,0.1362
+lang,Greek,1366,6_span_one_century,700,0.5124
+lang,Greek,1366,7_span_multi_century,198,0.1449
+lang,Greek,1366,8_century_field_only,4,0.0029
+lang,Italian,765,1_exact_year,328,0.4288
+lang,Italian,765,2_span_1_10,30,0.0392
+lang,Italian,765,3_span_11_25,26,0.034
+lang,Italian,765,4_span_26_50,50,0.0654
+lang,Italian,765,5_span_51_98,24,0.0314
+lang,Italian,765,6_span_one_century,215,0.281
+lang,Italian,765,7_span_multi_century,91,0.119
+lang,Italian,765,8_century_field_only,1,0.0013
+lang,Latin,36398,1_exact_year,6119,0.1681
+lang,Latin,36398,2_span_1_10,1552,0.0426
+lang,Latin,36398,3_span_11_25,1879,0.0516
+lang,Latin,36398,4_span_26_50,2706,0.0743
+lang,Latin,36398,5_span_51_98,907,0.0249
+lang,Latin,36398,6_span_one_century,19883,0.5463
+lang,Latin,36398,7_span_multi_century,3317,0.0911
+lang,Latin,36398,8_century_field_only,35,0.001
+lang,Malayalam,153,1_exact_year,17,0.1111
+lang,Malayalam,153,2_span_1_10,10,0.0654
+lang,Malayalam,153,3_span_11_25,2,0.0131
+lang,Malayalam,153,4_span_26_50,18,0.1176
+lang,Malayalam,153,6_span_one_century,27,0.1765
+lang,Malayalam,153,7_span_multi_century,79,0.5163
+lang,Other,3771,1_exact_year,1296,0.3437
+lang,Other,3771,2_span_1_10,214,0.0567
+lang,Other,3771,3_span_11_25,184,0.0488
+lang,Other,3771,4_span_26_50,267,0.0708
+lang,Other,3771,5_span_51_98,257,0.0682
+lang,Other,3771,6_span_one_century,1111,0.2946
+lang,Other,3771,7_span_multi_century,408,0.1082
+lang,Other,3771,8_century_field_only,34,0.009
+lang,Persian,1258,1_exact_year,608,0.4833
+lang,Persian,1258,2_span_1_10,8,0.0064
+lang,Persian,1258,3_span_11_25,9,0.0072
+lang,Persian,1258,4_span_26_50,36,0.0286
+lang,Persian,1258,5_span_51_98,74,0.0588
+lang,Persian,1258,6_span_one_century,493,0.3919
+lang,Persian,1258,7_span_multi_century,28,0.0223
+lang,Persian,1258,8_century_field_only,2,0.0016
+lang,Portuguese,773,1_exact_year,427,0.5524
+lang,Portuguese,773,2_span_1_10,49,0.0634
+lang,Portuguese,773,3_span_11_25,43,0.0556
+lang,Portuguese,773,4_span_26_50,51,0.066
+lang,Portuguese,773,5_span_51_98,19,0.0246
+lang,Portuguese,773,6_span_one_century,138,0.1785
+lang,Portuguese,773,7_span_multi_century,46,0.0595
+lang,Syriac,8027,1_exact_year,4061,0.5059
+lang,Syriac,8027,2_span_1_10,109,0.0136
+lang,Syriac,8027,3_span_11_25,26,0.0032
+lang,Syriac,8027,4_span_26_50,140,0.0174
+lang,Syriac,8027,5_span_51_98,111,0.0138
+lang,Syriac,8027,6_span_one_century,2101,0.2617
+lang,Syriac,8027,7_span_multi_century,1131,0.1409
+lang,Syriac,8027,8_century_field_only,348,0.0434
+lang,Turkish (Ottoman),2791,1_exact_year,1617,0.5794
+lang,Turkish (Ottoman),2791,2_span_1_10,46,0.0165
+lang,Turkish (Ottoman),2791,3_span_11_25,55,0.0197
+lang,Turkish (Ottoman),2791,4_span_26_50,101,0.0362
+lang,Turkish (Ottoman),2791,5_span_51_98,178,0.0638
+lang,Turkish (Ottoman),2791,6_span_one_century,775,0.2777
+lang,Turkish (Ottoman),2791,7_span_multi_century,19,0.0068
+origin,(missing),78198,1_exact_year,16862,0.2156
+origin,(missing),78198,2_span_1_10,2152,0.0275
+origin,(missing),78198,3_span_11_25,1754,0.0224
+origin,(missing),78198,4_span_26_50,3634,0.0465
+origin,(missing),78198,5_span_51_98,3421,0.0437
+origin,(missing),78198,6_span_one_century,39922,0.5105
+origin,(missing),78198,7_span_multi_century,8551,0.1094
+origin,(missing),78198,8_century_field_only,1902,0.0243
+origin,Austria,2060,1_exact_year,704,0.3417
+origin,Austria,2060,2_span_1_10,178,0.0864
+origin,Austria,2060,3_span_11_25,126,0.0612
+origin,Austria,2060,4_span_26_50,127,0.0617
+origin,Austria,2060,5_span_51_98,48,0.0233
+origin,Austria,2060,6_span_one_century,715,0.3471
+origin,Austria,2060,7_span_multi_century,154,0.0748
+origin,Austria,2060,8_century_field_only,8,0.0039
+origin,Bosnia and Herzegovina,1048,1_exact_year,789,0.7529
+origin,Bosnia and Herzegovina,1048,2_span_1_10,23,0.0219
+origin,Bosnia and Herzegovina,1048,3_span_11_25,8,0.0076
+origin,Bosnia and Herzegovina,1048,4_span_26_50,12,0.0115
+origin,Bosnia and Herzegovina,1048,5_span_51_98,18,0.0172
+origin,Bosnia and Herzegovina,1048,6_span_one_century,175,0.167
+origin,Bosnia and Herzegovina,1048,7_span_multi_century,23,0.0219
+origin,Ethiopia,943,1_exact_year,232,0.246
+origin,Ethiopia,943,2_span_1_10,26,0.0276
+origin,Ethiopia,943,3_span_11_25,14,0.0148
+origin,Ethiopia,943,4_span_26_50,35,0.0371
+origin,Ethiopia,943,5_span_51_98,29,0.0308
+origin,Ethiopia,943,6_span_one_century,600,0.6363
+origin,Ethiopia,943,7_span_multi_century,7,0.0074
+origin,Germany,5140,1_exact_year,1268,0.2467
+origin,Germany,5140,2_span_1_10,643,0.1251
+origin,Germany,5140,3_span_11_25,695,0.1352
+origin,Germany,5140,4_span_26_50,737,0.1434
+origin,Germany,5140,5_span_51_98,486,0.0946
+origin,Germany,5140,6_span_one_century,897,0.1745
+origin,Germany,5140,7_span_multi_century,406,0.079
+origin,Germany,5140,8_century_field_only,8,0.0016
+origin,India,1128,1_exact_year,541,0.4796
+origin,India,1128,2_span_1_10,22,0.0195
+origin,India,1128,3_span_11_25,23,0.0204
+origin,India,1128,4_span_26_50,39,0.0346
+origin,India,1128,5_span_51_98,46,0.0408
+origin,India,1128,6_span_one_century,320,0.2837
+origin,India,1128,7_span_multi_century,130,0.1152
+origin,India,1128,8_century_field_only,7,0.0062
+origin,Iraq,2309,1_exact_year,1550,0.6713
+origin,Iraq,2309,2_span_1_10,72,0.0312
+origin,Iraq,2309,3_span_11_25,55,0.0238
+origin,Iraq,2309,4_span_26_50,96,0.0416
+origin,Iraq,2309,5_span_51_98,130,0.0563
+origin,Iraq,2309,6_span_one_century,333,0.1442
+origin,Iraq,2309,7_span_multi_century,68,0.0294
+origin,Iraq,2309,8_century_field_only,5,0.0022
+origin,Italy,1654,1_exact_year,855,0.5169
+origin,Italy,1654,2_span_1_10,125,0.0756
+origin,Italy,1654,3_span_11_25,103,0.0623
+origin,Italy,1654,4_span_26_50,156,0.0943
+origin,Italy,1654,5_span_51_98,34,0.0206
+origin,Italy,1654,6_span_one_century,326,0.1971
+origin,Italy,1654,7_span_multi_century,53,0.032
+origin,Italy,1654,8_century_field_only,2,0.0012
+origin,Lebanon,2202,1_exact_year,1486,0.6748
+origin,Lebanon,2202,2_span_1_10,29,0.0132
+origin,Lebanon,2202,3_span_11_25,51,0.0232
+origin,Lebanon,2202,4_span_26_50,96,0.0436
+origin,Lebanon,2202,5_span_51_98,146,0.0663
+origin,Lebanon,2202,6_span_one_century,263,0.1194
+origin,Lebanon,2202,7_span_multi_century,104,0.0472
+origin,Lebanon,2202,8_century_field_only,27,0.0123
+origin,Malta,1187,1_exact_year,531,0.4473
+origin,Malta,1187,2_span_1_10,8,0.0067
+origin,Malta,1187,3_span_11_25,4,0.0034
+origin,Malta,1187,4_span_26_50,33,0.0278
+origin,Malta,1187,5_span_51_98,222,0.187
+origin,Malta,1187,6_span_one_century,169,0.1424
+origin,Malta,1187,7_span_multi_century,219,0.1845
+origin,Malta,1187,8_century_field_only,1,8e-04
+origin,Other,5037,1_exact_year,2127,0.4223
+origin,Other,5037,2_span_1_10,271,0.0538
+origin,Other,5037,3_span_11_25,397,0.0788
+origin,Other,5037,4_span_26_50,453,0.0899
+origin,Other,5037,5_span_51_98,141,0.028
+origin,Other,5037,6_span_one_century,1216,0.2414
+origin,Other,5037,7_span_multi_century,316,0.0627
+origin,Other,5037,8_century_field_only,116,0.023
+origin,Portugal,1448,1_exact_year,569,0.393
+origin,Portugal,1448,2_span_1_10,92,0.0635
+origin,Portugal,1448,3_span_11_25,188,0.1298
+origin,Portugal,1448,4_span_26_50,147,0.1015
+origin,Portugal,1448,5_span_51_98,32,0.0221
+origin,Portugal,1448,6_span_one_century,324,0.2238
+origin,Portugal,1448,7_span_multi_century,96,0.0663
+origin,Spain,1027,1_exact_year,413,0.4021
+origin,Spain,1027,2_span_1_10,50,0.0487
+origin,Spain,1027,3_span_11_25,46,0.0448
+origin,Spain,1027,4_span_26_50,71,0.0691
+origin,Spain,1027,5_span_51_98,13,0.0127
+origin,Spain,1027,6_span_one_century,384,0.3739
+origin,Spain,1027,7_span_multi_century,50,0.0487
+origin,Syria,953,1_exact_year,762,0.7996
+origin,Syria,953,2_span_1_10,21,0.022
+origin,Syria,953,3_span_11_25,12,0.0126
+origin,Syria,953,4_span_26_50,25,0.0262
+origin,Syria,953,5_span_51_98,31,0.0325
+origin,Syria,953,6_span_one_century,92,0.0965
+origin,Syria,953,7_span_multi_century,10,0.0105
+origin,Turkey,2245,1_exact_year,1703,0.7586
+origin,Turkey,2245,2_span_1_10,49,0.0218
+origin,Turkey,2245,3_span_11_25,25,0.0111
+origin,Turkey,2245,4_span_26_50,46,0.0205
+origin,Turkey,2245,5_span_51_98,101,0.045
+origin,Turkey,2245,6_span_one_century,277,0.1234
+origin,Turkey,2245,7_span_multi_century,39,0.0174
+origin,Turkey,2245,8_century_field_only,5,0.0022
+origin,Yemen,1236,1_exact_year,805,0.6513
+origin,Yemen,1236,2_span_1_10,6,0.0049
+origin,Yemen,1236,3_span_11_25,8,0.0065
+origin,Yemen,1236,4_span_26_50,19,0.0154
+origin,Yemen,1236,5_span_51_98,50,0.0405
+origin,Yemen,1236,6_span_one_century,347,0.2807
+origin,Yemen,1236,7_span_multi_century,1,8e-04
+support,(missing),25962,1_exact_year,4068,0.1567
+support,(missing),25962,2_span_1_10,844,0.0325
+support,(missing),25962,3_span_11_25,481,0.0185
+support,(missing),25962,4_span_26_50,651,0.0251
+support,(missing),25962,5_span_51_98,757,0.0292
+support,(missing),25962,6_span_one_century,16853,0.6491
+support,(missing),25962,7_span_multi_century,2274,0.0876
+support,(missing),25962,8_century_field_only,34,0.0013
+support,Other,31,1_exact_year,11,0.3548
+support,Other,31,3_span_11_25,2,0.0645
+support,Other,31,4_span_26_50,5,0.1613
+support,Other,31,5_span_51_98,2,0.0645
+support,Other,31,6_span_one_century,8,0.2581
+support,Other,31,7_span_multi_century,3,0.0968
+support,PALM_LEAF,260,1_exact_year,16,0.0615
+support,PALM_LEAF,260,2_span_1_10,1,0.0038
+support,PALM_LEAF,260,3_span_11_25,1,0.0038
+support,PALM_LEAF,260,6_span_one_century,2,0.0077
+support,PALM_LEAF,260,7_span_multi_century,240,0.9231
+support,PAPER,66814,1_exact_year,25853,0.3869
+support,PAPER,66814,2_span_1_10,1988,0.0298
+support,PAPER,66814,3_span_11_25,1423,0.0213
+support,PAPER,66814,4_span_26_50,3275,0.049
+support,PAPER,66814,5_span_51_98,3205,0.048
+support,PAPER,66814,6_span_one_century,22325,0.3341
+support,PAPER,66814,7_span_multi_century,6705,0.1004
+support,PAPER,66814,8_century_field_only,2040,0.0305
+support,"PAPER, PARCHMENT",599,1_exact_year,99,0.1653
+support,"PAPER, PARCHMENT",599,2_span_1_10,60,0.1002
+support,"PAPER, PARCHMENT",599,3_span_11_25,67,0.1119
+support,"PAPER, PARCHMENT",599,4_span_26_50,102,0.1703
+support,"PAPER, PARCHMENT",599,5_span_51_98,46,0.0768
+support,"PAPER, PARCHMENT",599,6_span_one_century,154,0.2571
+support,"PAPER, PARCHMENT",599,7_span_multi_century,69,0.1152
+support,"PAPER, PARCHMENT",599,8_century_field_only,2,0.0033
+support,PAPYRUS,47,1_exact_year,6,0.1277
+support,PAPYRUS,47,2_span_1_10,12,0.2553
+support,PAPYRUS,47,3_span_11_25,3,0.0638
+support,PAPYRUS,47,4_span_26_50,4,0.0851
+support,PAPYRUS,47,6_span_one_century,14,0.2979
+support,PAPYRUS,47,7_span_multi_century,8,0.1702
+support,PARCHMENT,14102,1_exact_year,1144,0.0811
+support,PARCHMENT,14102,2_span_1_10,862,0.0611
+support,PARCHMENT,14102,3_span_11_25,1532,0.1086
+support,PARCHMENT,14102,4_span_26_50,1689,0.1198
+support,PARCHMENT,14102,5_span_51_98,938,0.0665
+support,PARCHMENT,14102,6_span_one_century,7004,0.4967
+support,PARCHMENT,14102,7_span_multi_century,928,0.0658
+support,PARCHMENT,14102,8_century_field_only,5,4e-04
+writing,(missing),6786,1_exact_year,2990,0.4406
+writing,(missing),6786,2_span_1_10,425,0.0626
+writing,(missing),6786,3_span_11_25,366,0.0539
+writing,(missing),6786,4_span_26_50,400,0.0589
+writing,(missing),6786,5_span_51_98,184,0.0271
+writing,(missing),6786,6_span_one_century,1730,0.2549
+writing,(missing),6786,7_span_multi_century,670,0.0987
+writing,(missing),6786,8_century_field_only,21,0.0031
+writing,Arabic,33726,1_exact_year,12189,0.3614
+writing,Arabic,33726,2_span_1_10,355,0.0105
+writing,Arabic,33726,3_span_11_25,298,0.0088
+writing,Arabic,33726,4_span_26_50,1249,0.037
+writing,Arabic,33726,5_span_51_98,1874,0.0556
+writing,Arabic,33726,6_span_one_century,13088,0.3881
+writing,Arabic,33726,7_span_multi_century,3482,0.1032
+writing,Arabic,33726,8_century_field_only,1191,0.0353
+writing,"Arabic, Greek",173,1_exact_year,68,0.3931
+writing,"Arabic, Greek",173,2_span_1_10,3,0.0173
+writing,"Arabic, Greek",173,3_span_11_25,1,0.0058
+writing,"Arabic, Greek",173,4_span_26_50,9,0.052
+writing,"Arabic, Greek",173,5_span_51_98,20,0.1156
+writing,"Arabic, Greek",173,6_span_one_century,63,0.3642
+writing,"Arabic, Greek",173,7_span_multi_century,9,0.052
+writing,"Arabic, Roman",524,1_exact_year,220,0.4198
+writing,"Arabic, Roman",524,2_span_1_10,30,0.0573
+writing,"Arabic, Roman",524,3_span_11_25,24,0.0458
+writing,"Arabic, Roman",524,4_span_26_50,42,0.0802
+writing,"Arabic, Roman",524,5_span_51_98,64,0.1221
+writing,"Arabic, Roman",524,6_span_one_century,122,0.2328
+writing,"Arabic, Roman",524,7_span_multi_century,19,0.0363
+writing,"Arabic, Roman",524,8_century_field_only,3,0.0057
+writing,"Arabic, Roman, Syriac",168,1_exact_year,60,0.3571
+writing,"Arabic, Roman, Syriac",168,2_span_1_10,19,0.1131
+writing,"Arabic, Roman, Syriac",168,3_span_11_25,13,0.0774
+writing,"Arabic, Roman, Syriac",168,4_span_26_50,17,0.1012
+writing,"Arabic, Roman, Syriac",168,5_span_51_98,23,0.1369
+writing,"Arabic, Roman, Syriac",168,6_span_one_century,24,0.1429
+writing,"Arabic, Roman, Syriac",168,7_span_multi_century,12,0.0714
+writing,"Arabic, Syriac",893,1_exact_year,397,0.4446
+writing,"Arabic, Syriac",893,2_span_1_10,19,0.0213
+writing,"Arabic, Syriac",893,3_span_11_25,17,0.019
+writing,"Arabic, Syriac",893,4_span_26_50,23,0.0258
+writing,"Arabic, Syriac",893,5_span_51_98,47,0.0526
+writing,"Arabic, Syriac",893,6_span_one_century,260,0.2912
+writing,"Arabic, Syriac",893,7_span_multi_century,108,0.1209
+writing,"Arabic, Syriac",893,8_century_field_only,22,0.0246
+writing,Armenian,2442,1_exact_year,1268,0.5192
+writing,Armenian,2442,2_span_1_10,29,0.0119
+writing,Armenian,2442,3_span_11_25,5,0.002
+writing,Armenian,2442,4_span_26_50,13,0.0053
+writing,Armenian,2442,5_span_51_98,6,0.0025
+writing,Armenian,2442,6_span_one_century,773,0.3165
+writing,Armenian,2442,7_span_multi_century,340,0.1392
+writing,Armenian,2442,8_century_field_only,8,0.0033
+writing,Cyrillic,2030,1_exact_year,342,0.1685
+writing,Cyrillic,2030,2_span_1_10,28,0.0138
+writing,Cyrillic,2030,3_span_11_25,33,0.0163
+writing,Cyrillic,2030,4_span_26_50,32,0.0158
+writing,Cyrillic,2030,5_span_51_98,12,0.0059
+writing,Cyrillic,2030,6_span_one_century,1092,0.5379
+writing,Cyrillic,2030,7_span_multi_century,148,0.0729
+writing,Cyrillic,2030,8_century_field_only,343,0.169
+writing,Ethiopic,7685,1_exact_year,521,0.0678
+writing,Ethiopic,7685,2_span_1_10,772,0.1005
+writing,Ethiopic,7685,3_span_11_25,546,0.071
+writing,Ethiopic,7685,4_span_26_50,670,0.0872
+writing,Ethiopic,7685,5_span_51_98,1057,0.1375
+writing,Ethiopic,7685,6_span_one_century,3980,0.5179
+writing,Ethiopic,7685,7_span_multi_century,139,0.0181
+writing,Greek,1207,1_exact_year,144,0.1193
+writing,Greek,1207,2_span_1_10,16,0.0133
+writing,Greek,1207,3_span_11_25,10,0.0083
+writing,Greek,1207,4_span_26_50,29,0.024
+writing,Greek,1207,5_span_51_98,173,0.1433
+writing,Greek,1207,6_span_one_century,650,0.5385
+writing,Greek,1207,7_span_multi_century,183,0.1516
+writing,Greek,1207,8_century_field_only,2,0.0017
+writing,Hebrew,403,1_exact_year,101,0.2506
+writing,Hebrew,403,2_span_1_10,1,0.0025
+writing,Hebrew,403,3_span_11_25,2,0.005
+writing,Hebrew,403,4_span_26_50,5,0.0124
+writing,Hebrew,403,5_span_51_98,3,0.0074
+writing,Hebrew,403,6_span_one_century,207,0.5136
+writing,Hebrew,403,7_span_multi_century,84,0.2084
+writing,Malayalam,312,1_exact_year,23,0.0737
+writing,Malayalam,312,2_span_1_10,10,0.0321
+writing,Malayalam,312,3_span_11_25,1,0.0032
+writing,Malayalam,312,4_span_26_50,20,0.0641
+writing,Malayalam,312,6_span_one_century,28,0.0897
+writing,Malayalam,312,7_span_multi_century,230,0.7372
+writing,Other,776,1_exact_year,152,0.1959
+writing,Other,776,2_span_1_10,51,0.0657
+writing,Other,776,3_span_11_25,22,0.0284
+writing,Other,776,4_span_26_50,52,0.067
+writing,Other,776,5_span_51_98,53,0.0683
+writing,Other,776,6_span_one_century,270,0.3479
+writing,Other,776,7_span_multi_century,160,0.2062
+writing,Other,776,8_century_field_only,16,0.0206
+writing,Roman,40330,1_exact_year,7501,0.186
+writing,Roman,40330,2_span_1_10,1849,0.0458
+writing,Roman,40330,3_span_11_25,2125,0.0527
+writing,Roman,40330,4_span_26_50,2951,0.0732
+writing,Roman,40330,5_span_51_98,1245,0.0309
+writing,Roman,40330,6_span_one_century,21298,0.5281
+writing,Roman,40330,7_span_multi_century,3316,0.0822
+writing,Roman,40330,8_century_field_only,45,0.0011
+writing,"Roman, Syriac",203,1_exact_year,74,0.3645
+writing,"Roman, Syriac",203,2_span_1_10,11,0.0542
+writing,"Roman, Syriac",203,3_span_11_25,7,0.0345
+writing,"Roman, Syriac",203,4_span_26_50,4,0.0197
+writing,"Roman, Syriac",203,5_span_51_98,21,0.1034
+writing,"Roman, Syriac",203,6_span_one_century,61,0.3005
+writing,"Roman, Syriac",203,7_span_multi_century,23,0.1133
+writing,"Roman, Syriac",203,8_century_field_only,2,0.0099
+writing,Syriac,10157,1_exact_year,5147,0.5067
+writing,Syriac,10157,2_span_1_10,149,0.0147
+writing,Syriac,10157,3_span_11_25,39,0.0038
+writing,Syriac,10157,4_span_26_50,210,0.0207
+writing,Syriac,10157,5_span_51_98,166,0.0163
+writing,Syriac,10157,6_span_one_century,2714,0.2672
+writing,Syriac,10157,7_span_multi_century,1304,0.1284
+writing,Syriac,10157,8_century_field_only,428,0.0421

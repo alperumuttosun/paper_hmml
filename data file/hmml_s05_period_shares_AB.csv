@@ -1,0 +1,31 @@
+﻿period,method,share,sample
+1000-1299,Exact years only,1,A_block_excluded
+1300-1499,Exact years only,10.43,A_block_excluded
+1500-1699,Exact years only,24.78,A_block_excluded
+1700-1899,Exact years only,48.21,A_block_excluded
+1900-1999,Exact years only,15.58,A_block_excluded
+1000-1299,Standard aoristic,6.13,A_block_excluded
+1300-1499,Standard aoristic,21.7,A_block_excluded
+1500-1699,Standard aoristic,19.48,A_block_excluded
+1700-1899,Standard aoristic,38.28,A_block_excluded
+1900-1999,Standard aoristic,14.41,A_block_excluded
+1000-1299,Phase-corrected aoristic,6.23,A_block_excluded
+1300-1499,Phase-corrected aoristic,21.69,A_block_excluded
+1500-1699,Phase-corrected aoristic,19.45,A_block_excluded
+1700-1899,Phase-corrected aoristic,37.93,A_block_excluded
+1900-1999,Phase-corrected aoristic,14.7,A_block_excluded
+1000-1299,Exact years only,1,B_block_included
+1300-1499,Exact years only,10.43,B_block_included
+1500-1699,Exact years only,24.78,B_block_included
+1700-1899,Exact years only,48.21,B_block_included
+1900-1999,Exact years only,15.58,B_block_included
+1000-1299,Standard aoristic,2.87,B_block_included
+1300-1499,Standard aoristic,10.16,B_block_included
+1500-1699,Standard aoristic,9.12,B_block_included
+1700-1899,Standard aoristic,60.3,B_block_included
+1900-1999,Standard aoristic,17.55,B_block_included
+1000-1299,Phase-corrected aoristic,2.92,B_block_included
+1300-1499,Phase-corrected aoristic,10.15,B_block_included
+1500-1699,Phase-corrected aoristic,9.1,B_block_included
+1700-1899,Phase-corrected aoristic,58.85,B_block_included
+1900-1999,Phase-corrected aoristic,18.98,B_block_included

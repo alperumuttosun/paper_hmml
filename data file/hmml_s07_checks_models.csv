@@ -1,0 +1,85 @@
+﻿model,term,odds_ratio,or_low,or_high,repo_var,icc_latent,n_parts,convergence
+main (fast Laplace),cent_fC08,0.19,0.059,0.617,1.159,0.26,107724,none
+main (fast Laplace),cent_fC09,0.038,0.01,0.155,1.159,0.26,107724,none
+main (fast Laplace),cent_fC10,0.14,0.076,0.258,1.159,0.26,107724,none
+main (fast Laplace),cent_fC11,0.168,0.103,0.275,1.159,0.26,107724,none
+main (fast Laplace),cent_fC12,0.205,0.161,0.26,1.159,0.26,107724,none
+main (fast Laplace),cent_fC13,0.357,0.308,0.414,1.159,0.26,107724,none
+main (fast Laplace),cent_fC14,0.599,0.545,0.658,1.159,0.26,107724,none
+main (fast Laplace),cent_fC16,1.615,1.509,1.729,1.159,0.26,107724,none
+main (fast Laplace),cent_fC17,1.502,1.397,1.615,1.159,0.26,107724,none
+main (fast Laplace),cent_fC18,1.34,1.247,1.44,1.159,0.26,107724,none
+main (fast Laplace),cent_fC19,1.661,1.543,1.788,1.159,0.26,107724,none
+main (fast Laplace),cent_fC20,2.708,2.486,2.95,1.159,0.26,107724,none
+main (fast Laplace),cent_fC21,2.139,1.163,3.934,1.159,0.26,107724,none
+main (fast Laplace),writ_f(missing),5.362,4.776,6.02,1.159,0.26,107724,none
+main (fast Laplace),writ_fArabic,2.134,1.924,2.367,1.159,0.26,107724,none
+main (fast Laplace),writ_fArmenian,3.514,2.826,4.371,1.159,0.26,107724,none
+main (fast Laplace),writ_fCyrillic,0.65,0.516,0.818,1.159,0.26,107724,none
+main (fast Laplace),writ_fEthiopic,0.264,0.216,0.323,1.159,0.26,107724,none
+main (fast Laplace),writ_fGreek,0.527,0.428,0.648,1.159,0.26,107724,none
+main (fast Laplace),writ_fOther,1.628,1.441,1.839,1.159,0.26,107724,none
+main (fast Laplace),writ_fSyriac,3.123,2.776,3.514,1.159,0.26,107724,none
+laplace,cent_fC08,0.189,0.058,0.617,1.191,0.266,107724,none
+laplace,cent_fC09,0.039,0.01,0.156,1.191,0.266,107724,none
+laplace,cent_fC10,0.14,0.076,0.258,1.191,0.266,107724,none
+laplace,cent_fC11,0.167,0.102,0.274,1.191,0.266,107724,none
+laplace,cent_fC12,0.204,0.161,0.26,1.191,0.266,107724,none
+laplace,cent_fC13,0.356,0.308,0.413,1.191,0.266,107724,none
+laplace,cent_fC14,0.598,0.544,0.658,1.191,0.266,107724,none
+laplace,cent_fC16,1.618,1.512,1.732,1.191,0.266,107724,none
+laplace,cent_fC17,1.505,1.399,1.618,1.191,0.266,107724,none
+laplace,cent_fC18,1.342,1.248,1.442,1.191,0.266,107724,none
+laplace,cent_fC19,1.665,1.546,1.792,1.191,0.266,107724,none
+laplace,cent_fC20,2.728,2.504,2.972,1.191,0.266,107724,none
+laplace,cent_fC21,2.155,1.17,3.97,1.191,0.266,107724,none
+laplace,writ_f(missing),5.426,4.831,6.094,1.191,0.266,107724,none
+laplace,writ_fArabic,2.143,1.931,2.377,1.191,0.266,107724,none
+laplace,writ_fArmenian,3.54,2.845,4.405,1.191,0.266,107724,none
+laplace,writ_fCyrillic,0.651,0.517,0.82,1.191,0.266,107724,none
+laplace,writ_fEthiopic,0.219,0.178,0.27,1.191,0.266,107724,none
+laplace,writ_fGreek,0.528,0.429,0.65,1.191,0.266,107724,none
+laplace,writ_fOther,1.634,1.446,1.846,1.191,0.266,107724,none
+laplace,writ_fSyriac,3.153,2.802,3.548,1.191,0.266,107724,none
+no_printed,cent_fC08,0.199,0.062,0.641,1.182,0.264,105821,none
+no_printed,cent_fC09,0.033,0.008,0.137,1.182,0.264,105821,none
+no_printed,cent_fC10,0.137,0.075,0.253,1.182,0.264,105821,none
+no_printed,cent_fC11,0.171,0.104,0.28,1.182,0.264,105821,none
+no_printed,cent_fC12,0.213,0.168,0.27,1.182,0.264,105821,none
+no_printed,cent_fC13,0.367,0.317,0.425,1.182,0.264,105821,none
+no_printed,cent_fC14,0.62,0.564,0.682,1.182,0.264,105821,none
+no_printed,cent_fC16,1.54,1.436,1.65,1.182,0.264,105821,none
+no_printed,cent_fC17,1.448,1.345,1.56,1.182,0.264,105821,none
+no_printed,cent_fC18,1.305,1.213,1.404,1.182,0.264,105821,none
+no_printed,cent_fC19,1.633,1.515,1.76,1.182,0.264,105821,none
+no_printed,cent_fC20,2.717,2.49,2.964,1.182,0.264,105821,none
+no_printed,cent_fC21,2.358,1.259,4.414,1.182,0.264,105821,none
+no_printed,writ_f(missing),2.101,1.806,2.444,1.182,0.264,105821,none
+no_printed,writ_fArabic,2.724,2.44,3.042,1.182,0.264,105821,none
+no_printed,writ_fArmenian,4.313,3.453,5.387,1.182,0.264,105821,none
+no_printed,writ_fCyrillic,0.733,0.577,0.931,1.182,0.264,105821,none
+no_printed,writ_fEthiopic,0.274,0.223,0.337,1.182,0.264,105821,none
+no_printed,writ_fGreek,0.652,0.529,0.804,1.182,0.264,105821,none
+no_printed,writ_fOther,2.034,1.791,2.31,1.182,0.264,105821,none
+no_printed,writ_fSyriac,3.967,3.5,4.495,1.182,0.264,105821,none
+no_papyrus,cent_fC08,0.19,0.059,0.617,1.16,0.261,107723,none
+no_papyrus,cent_fC09,0.038,0.01,0.155,1.16,0.261,107723,none
+no_papyrus,cent_fC10,0.14,0.076,0.258,1.16,0.261,107723,none
+no_papyrus,cent_fC11,0.168,0.103,0.274,1.16,0.261,107723,none
+no_papyrus,cent_fC12,0.205,0.161,0.26,1.16,0.261,107723,none
+no_papyrus,cent_fC13,0.357,0.308,0.414,1.16,0.261,107723,none
+no_papyrus,cent_fC14,0.598,0.544,0.657,1.16,0.261,107723,none
+no_papyrus,cent_fC16,1.614,1.508,1.727,1.16,0.261,107723,none
+no_papyrus,cent_fC17,1.501,1.396,1.614,1.16,0.261,107723,none
+no_papyrus,cent_fC18,1.339,1.246,1.438,1.16,0.261,107723,none
+no_papyrus,cent_fC19,1.659,1.542,1.786,1.16,0.261,107723,none
+no_papyrus,cent_fC20,2.706,2.484,2.947,1.16,0.261,107723,none
+no_papyrus,cent_fC21,2.138,1.163,3.932,1.16,0.261,107723,none
+no_papyrus,writ_f(missing),5.364,4.778,6.022,1.16,0.261,107723,none
+no_papyrus,writ_fArabic,2.134,1.924,2.368,1.16,0.261,107723,none
+no_papyrus,writ_fArmenian,3.528,2.836,4.388,1.16,0.261,107723,none
+no_papyrus,writ_fCyrillic,0.65,0.516,0.818,1.16,0.261,107723,none
+no_papyrus,writ_fEthiopic,0.264,0.216,0.323,1.16,0.261,107723,none
+no_papyrus,writ_fGreek,0.527,0.428,0.648,1.16,0.261,107723,none
+no_papyrus,writ_fOther,1.628,1.441,1.839,1.16,0.261,107723,none
+no_papyrus,writ_fSyriac,3.12,2.773,3.51,1.16,0.261,107723,none

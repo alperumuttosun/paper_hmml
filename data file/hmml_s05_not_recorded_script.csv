@@ -1,0 +1,37 @@
+﻿value,N,dimension,share
+MANUSCRIPT,5241,object_type,0.7723
+PRINT,1196,object_type,0.1762
+MANUSCRIPT_PRINT,349,object_type,0.0514
+Manuscript,5225,part_type,0.77
+Printed,1557,part_type,0.2294
+Unknown,4,part_type,6e-04
+Malta,2244,country,0.3307
+Austria,1248,country,0.1839
+Germany,906,country,0.1335
+Spain,732,country,0.1079
+United States,413,country,0.0609
+Other,399,country,0.0588
+Iraq,262,country,0.0386
+Lebanon,192,country,0.0283
+India,170,country,0.0251
+South Africa,121,country,0.0178
+Syria,99,country,0.0146
+Other,2297,repository,0.3385
+Tiroler Landesarchiv,1078,repository,0.1589
+"Carmelite Priory (Mdina, Malta)",746,repository,0.1099
+Universitätsbibliothek Johann Christian Senckenberg,693,repository,0.1021
+Cathedral Archives,530,repository,0.0781
+Commissariat of the Holy Land,382,repository,0.0563
+Catedral de Tortosa. Arxiu Capitular,321,repository,0.0473
+Collegiate Church of St. Helen,220,repository,0.0324
+Museu del Castell de Peralada. Biblioteca,215,repository,0.0317
+Hill Museum & Manuscript Library. Rare Book and Manuscript Collection,166,repository,0.0245
+Immaculate Conception Church,138,repository,0.0203
+1_exact_year,2990,precision,0.4406
+6_span_one_century,1730,precision,0.2549
+7_span_multi_century,670,precision,0.0987
+2_span_1_10,425,precision,0.0626
+4_span_26_50,400,precision,0.0589
+3_span_11_25,366,precision,0.0539
+5_span_51_98,184,precision,0.0271
+8_century_field_only,21,precision,0.0031
